@@ -1,0 +1,59 @@
+# Python cache and local runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Local build and output folders
+build/
+dist/
+outputs/
+tmp/
+temp/
+
+# Office documents and exports
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.odt
+*.ods
+*.odp
+
+# Data exports and archives
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Images and generated visual assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.tiff
+*.bmp
+
+# Local HTML/demo artifacts
+*.html
+*.htm
+
+# macOS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
